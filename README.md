@@ -1,2 +1,2 @@
 # alumni
-sistem informasi gudang
+sistem informasi alumni
